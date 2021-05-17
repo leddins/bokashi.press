@@ -2,9 +2,11 @@ body{
   font-family: Helvetica, Arial, sans-serif;
   font-size: 50px;
   padding-top: 40px;
-  background: rgb(0, 0, 0);
+  background: white;
 }
 h1{
   font-family: Comfortaa, arial, sans-serif;
-  padding: auto;
+  margin: auto;
+}
+h3{
 }
