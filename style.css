@@ -8,7 +8,7 @@ body{
 }
 h1{
   font-family: Comfortaa, arial, sans-serif;
-  margin: auto;
+  padding: 6px;
 }
 p{
   font-size: 12px;
