@@ -7,42 +7,20 @@
   </head>
 
   <body>
-    <h1>bokashi press</h1>
+    <h1>Thanks!</h1>
     <img src="001.jpg" alt="(Bokashi Fermenting System)" width="460" height="auto">
-    <h2>What is Bokashi?</h2>
-    <p>Bokashi is a method of organic waste fermentation that returns virtually all of the carbon back to the soil. The fermentation takes place in a sealed anaerobic environment and with the help of specialist microbes does not produce C02 or methane.</p>
+    <h2>Blackbird foods</h2>
+    <p>They've been saving used soy sauce buckets for me. This is what kicked off the Bokashi Press project.</p>
     <hr>
-    <h2>How to compost with bokashi</h2>
-    <ol>
-      <li>Put a handful of inoculant flakes in the bottom of the bucket.</li>
-      <li>Add kitchen scraps to the bucket, adding a handful of flakes for every few inches of depth. One gallon of flakes should be enough for one bucket.</li>
-      <li>Use the plunger to press the food scraps down and keep out as much air as possible.</li>
-      <li>If you are using a drain bucket liquid will drip out and collect in the bottom bucket. If all is going well this should smell a little vinegary. Periodically pour it down the drain or dilute it and spread it on your garden.</li>
-      <li>When the bucket is full, seal it with a lid and let it ferment for two weeks.</li>
-      <li>After 2 weeks you can add it to regular compost or just put it directly in the ground.</li>
-    </ol>
+    <h2>Think Coffee</h2>
+    <p>They've been providing me chaff.</p>
+    <h2>Cafe Grumpy</h2>
+    <p>They've been providing me chaff.</p>
+    <h2>Vokashi</h2>
+    <p>Vandra has been so generous with testing and promotion.</p>
     <hr>
-    <h2>Can I ferment that?</h2>
-    <h3>YES</h3>
-    <ul>
-      <li>Almost all kitchen scraps</li>
-      <li>Fruit and vegetables</li>
-      <li>Raw or cooked food</li>
-      <li>Grains and bread</li>
-      <li>Meat, fish, dairy, eggs</li>
-      <li>Small bones</li>
-      <li>Tea bags and coffee grounds</li>
-      <li>Tissues</li>
-      <li>Slightly moldy food</li>
-    </ul>
-    <h3>NO</h3>
-    <ul>
-      <li>Large quantities of liquids or oils</li>
-      <li>Thick bones and oyster shells</li>
-      <li>Very moldy food</li>
-      <li>Paper</li>
-    </ul>
+    <h2>Creative Engineering</h2>
+    <p>Scrap plexi and support for prototyping.</p>
     <hr>
-    <h2>Contact</h2>
-    <p class="contact">bokashi.press@gmail.com</p>
+
   </body>
