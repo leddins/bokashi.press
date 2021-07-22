@@ -1,15 +1,65 @@
-body{
+body {
   font-family: Comfortaa, Arial, sans-serif;
   font-size: 50px;
   padding-top: 40px;
   background: white;
   text-align: center;
-  margin: 0px;
+  margin-left: 5%;
+  margin-right: 5%;
 }
-h1{
-  padding: 0px;
-  margin: 16px;
-}
-p{
+
+img {
+  font-family: sans-serif;
   font-size: 20px;
+}
+
+hr {
+  border-top: 5px;
+}
+
+h1 {
+  padding: 0px;
+}
+
+h2 {
+  font-size: 40px;
+  margin-left:5%;
+  margin-right:5%;
+}
+
+h3 {
+  font-size: 25px;
+  text-align: left;
+  margin-left: 15%;
+  margin-right: 15%;
+  border-bottom-style: none;
+}
+
+p {
+  font-size: 20px;
+  text-align: left;
+  margin-left:5%;
+  margin-right:5%;
+}
+
+ol {
+  font-size: 20px;
+  text-align: left;
+  margin-left:5%;
+  margin-right:5%;
+}
+
+ul {
+  font-size: 20px;
+  text-align: left;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+.contact {
+  text-align: center;
 }
