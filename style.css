@@ -79,47 +79,11 @@ ul.menu li {
 
 ul.menu li a {
   font-size: 15px;
-  display: block;
+  display: yes;
   padding: 8px;
   background-color: none;
 }
 
 .contact {
   text-align: center;
-}
-
-text-align: left;
-margin-left:5%;
-margin-right:5%;
-}
-
-ul {
-  font-size: 20px;
-  text-align: left;
-  margin-left: 15%;
-  margin-right: 15%;
-}
-
-li {
-  margin-bottom: 15px;
-}
-
-.contact {
-  text-align: center;
-}
-
-.product {
-  display: block;
-  background-color: none;
-  height: 350px;
-}
-
-.product img {
-  margin-right: 20px;
-  float: left;
-}
-
-.product div {
-  display: inline;
-  text-align: left;
 }
