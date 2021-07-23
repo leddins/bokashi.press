@@ -9,7 +9,7 @@
   <body>
     <ul class="menu">
       <li><a href="https://bokashi.press/contact/">contact</a></li>
-      <li><a href="https://bokashi.press/thanks/">thanks</a></li>
+      <li><a href="/thanks/">thanks</a></li>
       <li><a href="https://bokashi.press/products/">products</a></li>
       <li><a href="https://bokashi.press/method/">method</a></li>
       <li><a href="https://bokashi.press/">home</a></li>
