@@ -23,8 +23,8 @@ h1 {
 
 h2 {
   font-size: 40px;
-  margin-left:5%;
-  margin-right:5%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 h3 {
@@ -38,12 +38,56 @@ h3 {
 p {
   font-size: 20px;
   text-align: left;
-  margin-left:5%;
-  margin-right:5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
 }
 
 ol {
   font-size: 20px;
+  text-align: left;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 20px;
+  text-align: left;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+ul.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+ul.menu li {
+  float: right;
+}
+
+ul.menu li a {
+  font-size: 15px;
+  display: yes;
+  padding: 8px;
+  background-color: none;
+}
+
+.contact {
+  text-align: center;
+}
+
   text-align: left;
   margin-left:5%;
   margin-right:5%;
