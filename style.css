@@ -113,7 +113,7 @@ li {
 .product {
   display: block;
   background-color: none;
-  height: 350px;
+  height: auto;
 }
 
 .product img {
