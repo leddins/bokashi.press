@@ -90,26 +90,6 @@ ul.menu li a {
   text-align: center;
 }
 
-text-align: left;
-margin-left:5%;
-margin-right:5%;
-}
-
-ul {
-  font-size: 20px;
-  text-align: left;
-  margin-left: 15%;
-  margin-right: 15%;
-}
-
-li {
-  margin-bottom: 15px;
-}
-
-.contact {
-  text-align: center;
-}
-
 .product {
   display: block;
   background-color: none;
